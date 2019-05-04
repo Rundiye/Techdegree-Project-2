@@ -1,0 +1,36 @@
+/* ======== Page Styles ================= */
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Varela Round', sans-serif;
+	line-height: 1.6;
+	padding: 2em;
+	background: white;
+}
+
+a {
+	color: black;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: block;
+  padding: 10px 15px;
+}
+
+a:hover {
+	color: black;
+}
+
+.main-header {
+	background: white;
+	padding: .25em;
+}
+
+.main-nav {
+	width: 50%;
+	padding: 1.65em;
+	margin: 0 auto;
+}
+
+/* ======== Page Styles ================= */
